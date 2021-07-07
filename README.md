@@ -1,2 +1,0 @@
-# opengl-example
-opengl example.
